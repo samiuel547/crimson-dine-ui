@@ -1,4 +1,4 @@
-import { Restaurant, Category } from './types';
+import { Restaurant, Category } from '../types';
 
 export const CATEGORIES: Category[] = [
   { id: '1', name: 'Burger', icon: '🍔' },
