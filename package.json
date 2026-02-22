@@ -93,8 +93,8 @@
     "typescript-eslint": "^8.44.0",
     "vite": "^5.4.11",
     "vite-plugin-checker": "^0.10.3"
+     },
+  "dependencies": {
+    "zustand": "^4.4.0"    
   }
-}
-"dependencies": {
-  "zustand": "^<latest version>"
 }
