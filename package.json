@@ -95,3 +95,6 @@
     "vite-plugin-checker": "^0.10.3"
   }
 }
+"dependencies": {
+  "zustand": "^<latest version>"
+}
